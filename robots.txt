@@ -1,0 +1,6 @@
+# Robots.txt untuk Pengaduan Nasabah Bank Aceh
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://pengaduan-nasabah-bank-aceh.vercel.app/sitemap.xml
